@@ -33,3 +33,6 @@ services:
     - redis
     networks:
     - back
+    environment:
+    - REDIS_PORT_6379_TCP_ADDR=redis
+    - REDIS_PORT_6379_TCP_PORT=6379
