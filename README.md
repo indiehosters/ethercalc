@@ -1,2 +1,1 @@
-# ethercalc
-Ethercalc application for IndieHosters
+moved to https://lab.libreho.st/libre.sh/compose/ethercalc
